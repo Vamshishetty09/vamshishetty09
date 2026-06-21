@@ -1,5 +1,5 @@
 # 💫 About Me:
-B.Tech Artificial and machine learning <br>aspiring ai engineer<br>skilled in power Bi, Excel, python and frontend<br>currently building projects related to Ai<br>always Learning, exploring and growing in the field and technology
+ 🎓 B.Tech Artificial and machine learning <br>aspiring ai engineer<br>skilled in power Bi, Excel, python and frontend<br>currently building projects related to Ai<br>always Learning, exploring and growing in the field and technology
 
 
 ## 🌐 Socials:
